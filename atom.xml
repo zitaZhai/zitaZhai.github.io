@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>南睐备罔~</title>
+  <title>南睐北罔~</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-08T03:06:12.846Z</updated>
+  <updated>2018-08-08T09:52:22.534Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>HEXO的next主题 分享功能实现</title>
+    <link href="http://yoursite.com/2018/08/08/hexo-next%20%E5%88%86%E4%BA%AB%E5%8A%9F%E8%83%BD/"/>
+    <id>http://yoursite.com/2018/08/08/hexo-next 分享功能/</id>
+    <published>2018-08-08T09:34:49.927Z</published>
+    <updated>2018-08-08T09:52:22.534Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;基于开源的baiduShare&lt;/p&gt;
+&lt;h2 id=&quot;1、修改主题配置-config-yml&quot;&gt;&lt;a href=&quot;#1、修改主题配置-config-yml&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的博客</title>
     <link href="http://yoursite.com/2018/06/13/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2018/06/13/我的博客/</id>
     <published>2018-06-13T09:28:02.084Z</published>
-    <updated>2018-08-08T03:06:12.846Z</updated>
+    <updated>2018-08-08T09:40:26.074Z</updated>
     
     <summary type="html">
     
