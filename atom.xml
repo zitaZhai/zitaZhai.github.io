@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>南睐备罔~</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-08T03:06:12.846Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zitaZhai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的博客</title>
+    <link href="http://yoursite.com/2018/06/13/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/06/13/我的博客/</id>
+    <published>2018-06-13T09:28:02.084Z</published>
+    <updated>2018-08-08T03:06:12.846Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="实用技术" scheme="http://yoursite.com/categories/%E5%AE%9E%E7%94%A8%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="个人博客" scheme="http://yoursite.com/categories/%E5%AE%9E%E7%94%A8%E6%8A%80%E6%9C%AF/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="实用" scheme="http://yoursite.com/tags/%E5%AE%9E%E7%94%A8/"/>
+    
+      <category term="个人博客" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/06/13/hello-world/"/>
+    <id>http://yoursite.com/2018/06/13/hello-world/</id>
+    <published>2018-06-13T09:06:06.401Z</published>
+    <updated>2018-06-13T09:06:06.402Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
